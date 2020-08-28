@@ -1,10 +1,12 @@
 {
   "$schema": "https://json.schemastore.org/package",
   "name": "slack-emojis",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This package holds all the emojis values possible for a slack chat",
   "main": "index.js",
-  "maintainers": ["Daniel Hermon <https://github.com/syncush>"],
+  "maintainers": [
+    "Daniel Hermon <https://github.com/syncush>"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/syncush/slack-emojis"
