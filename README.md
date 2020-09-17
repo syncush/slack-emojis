@@ -10,7 +10,7 @@ This packages exposes all the possible emojis available in a slack chat.
 
 # Possible Usages
 One out of many possibilities is that you are writing a webhook feature which integrates with slack and you would like to use emojis,
-you would have to use a magic string in your code(e.g :sad_1:).
+you would have to use a magic string in your code(e.g :boom:).
 
 `slack-emojis` is here for the rescue!
 
