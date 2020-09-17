@@ -861,6 +861,6 @@ module.exports = {
   SMALL_RED_TRIANGLE: ':small_red_triangle:',
   SMALL_RED_TRIANGLE_DOWN: ':small_red_triangle_down:',
   SHIPIT: ':shipit:',
-  HAMMER_AND_WRENCH: 'hammer_and_wrench',
-  HAMMER_AND_PICK: 'hammer_and_pick',
+  HAMMER_AND_WRENCH: ':hammer_and_wrench:',
+  HAMMER_AND_PICK: ':hammer_and_pick:',
 };

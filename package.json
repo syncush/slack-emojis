@@ -1,7 +1,7 @@
 {
   "$schema": "https://json.schemastore.org/package",
   "name": "slack-emojis",
-  "version": "1.0.1",
+  "version": "1.1.1",
   "description": "This package holds all the emojis values possible for a slack chat",
   "main": "index.js",
   "maintainers": [
